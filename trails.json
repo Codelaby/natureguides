@@ -1,0 +1,82 @@
+[
+    {
+        "uid": "52c49f54-9ec1-4ca7-9efb-6b8aa9c7f5d8",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT001_cover.jpg",
+        "location": "Blanes",
+        "type": "loop-trail",
+        "length": "4399",
+        "duration": "150",
+        "grade_IBP": "42",
+        "title": "Blanes a Cala Francesc"
+    },
+    {
+        "uid": "936d56c7-a5b4-43a8-98c5-bfb520d84423",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT002_cover.jpg",
+        "location": "Lloret de Mar",
+        "type": "out-to-back",
+        "length": "6310",
+        "duration": "135",
+        "grade_IBP": "25",
+        "title": "Lloret de Mar a Sa Boadella"
+    },
+    {
+        "uid": "17d38d88-4f49-4e6e-82d6-4ddc5f688bac",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT003_cover.jpg",
+        "location": "Lloret de Mar",
+        "type": "out-to-back",
+        "length": "3030",
+        "duration": "90",
+        "grade_IBP": "15",
+        "title": "Lloret de Mar a Cala Trons"
+    },
+    {
+        "uid": "cb943a68-eaff-4402-8dbf-94a1814c31d4",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT004_cover.jpg",
+        "location": "Tossa de Mar",
+        "type": "out-to-back",
+        "length": "7820",
+        "duration": "240",
+        "grade_IBP": "43",
+        "title": "Tossa de Mar a Miradores dels Cards"
+    },
+    {
+        "uid": "cb943a68-eaff-4402-8dbf-94a1814c31d6",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT005_cover.jpg",
+        "location": "Tossa de Mar",
+        "type": "out-to-back",
+        "length": "5900",
+        "duration": "150",
+        "grade_IBP": "53",
+        "title": "Tossa de Mar a Cala Pola"
+    },
+    {
+        "uid": "cb943a68-eaff-4402-8dbf-94a1814c31d8",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT006_cover.jpg",
+        "location": "Sant Feliu de Guixols",
+        "type": "loop-trail",
+        "length": "5000",
+        "duration": "150",
+        "grade_IBP": "23",
+        "title": "Playa de Sant Pol a Cala Jonca"
+    },
+    {
+        "uid": "cb943a68-eaff-4402-8dbf-94a1814c31e1",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT007_cover.jpg",
+        "location": "Sant Feliu de Guixols",
+        "type": "out-to-back",
+        "length": "5990",
+        "duration": "120",
+        "grade_IBP": "19",
+        "title": "Playa de Sant Pol a Sa Conca"
+    },
+    {
+        "uid": "cb943a68-eaff-4402-8dbf-94a1814c31e3",
+        "cover": "https:\/\/codelaby.es\/natureguides\/app\/assets\/covers\/RT008_cover.jpg",
+        "location": "Platja d'Aro",
+        "type": "out-to-back",
+        "length": "8860",
+        "duration": "140",
+        "grade_IBP": "27",
+        "title": "Playa de Aro a Torre Valentina"
+    }
+]
